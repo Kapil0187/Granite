@@ -29,3 +29,5 @@ end
 
 group :test do
 end
+
+gem "shakapacker", "~> 6.6.0"
